@@ -1,0 +1,1 @@
+This is a small gui project that I complete for my COSI21 final project. I allows the user to create reviews. It utilizes object Oriented Programming. 

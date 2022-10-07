@@ -1,0 +1,28 @@
+// import java.util.ArrayList;
+
+// public class ReviewList{
+
+//     private ArrayList<Review> ReviewList = new ArrayList<Review>();
+
+//     public void addReview(Rating r){
+//         this.ReviewList.add(r);
+//     }
+
+//     public void removeReview(Rating r){
+//         this.ReviewList.remove(r);
+
+//     }
+
+//     public ArrayList<Rating> getList(){
+//         System.out.println(this.ReviewList);
+//         return this.studentList;
+
+//     }
+
+//     public void printReviews(){
+//         System.out.println("The Reviews: "+ );
+//         for(int i = 0; i<reviewList.size(); i++){
+//             System.out.println(reviewList.get(i));
+//         }
+//     }
+// }
