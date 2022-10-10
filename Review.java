@@ -1,18 +1,17 @@
 public class Review {
-  
+
   private int team;
   private int rating;
   private String reviewer;
   private String comment;
 
   public Review(int team, int rating, String reviewer, String comment) {
-    
+
       this.team = team;
       this.rating = rating;
       this.comment = comment;
       this.reviewer = reviewer;
-    
-   
+
   }
 
   public int getTeam() {

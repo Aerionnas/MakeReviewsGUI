@@ -1,5 +1,4 @@
- Team:3| Rating:10| ReviewerLilly| Comments:Great Job
-Team:3| Rating:10| ReviewerLilly| Comments:Great Job
-Team:3| Rating:10| ReviewerLilly| Comments:Great Job
-Team:3| Rating:10| ReviewerLilly| Comments:Great Job
-Team:3| Rating:10| ReviewerLilly| Comments:Great Job
+ * Team:3| Rating:10| ReviewerLilly| Comments:Great Job
+* Team:5| Rating:-5| ReviewerAmy| Comments:U suck!!!
+* Team:7| Rating:10| ReviewerBecky| Comments:Awesome
+* Team:9| Rating:0| ReviewerGail| Comments:Booooo!!
